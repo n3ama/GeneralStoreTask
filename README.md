@@ -6,6 +6,7 @@ You need to add the app.apk file path in App_Path variable before running App_Pr
 " Test cases/Add_Product " 
 
 Objective:
+
 Verify that the General Store app on an Android device functions correctly by ensuring that a user can successfully open the app, select a country, enter personal information, add a product to the cart, and verify its presence in the cart.
 
 Test Steps:
